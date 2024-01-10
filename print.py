@@ -219,5 +219,3 @@ radar_chart.add('小明快餐', [7, 8, 9, 6, 8])
 radar_chart.add('阿强烧烤', [10, 4, 6, 8, 4])
 
 radar_chart.add('萌仔汉堡', [7, 6, 5, 4, 6])
-
-radar_chart.add('萌仔1汉堡', [7, 6, 5, 4, 6])
